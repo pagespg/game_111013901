@@ -1,0 +1,27 @@
+
+question.png
+size: 261,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+question_mark_01
+  rotate: true
+  xy: 1, 1
+  size: 141, 153
+  orig: 141, 153
+  offset: 0, 0
+  index: -1
+question_mark_02
+  rotate: true
+  xy: 156, 6
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+question_mark_03
+  rotate: true
+  xy: 156, 75
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1

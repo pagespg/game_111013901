@@ -1,0 +1,20 @@
+
+redCloth.png
+size: 621,621
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloth
+  rotate: false
+  xy: 2, 79
+  size: 532, 540
+  orig: 532, 540
+  offset: 0, 0
+  index: -1
+clothBack
+  rotate: false
+  xy: 536, 79
+  size: 83, 540
+  orig: 86, 540
+  offset: 0, 0
+  index: -1

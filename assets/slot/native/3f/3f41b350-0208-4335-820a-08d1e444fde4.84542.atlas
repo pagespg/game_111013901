@@ -1,0 +1,13 @@
+
+littleGame_cylinder.png
+size: 126,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ui_item_cylinder
+  rotate: false
+  xy: 2, 2
+  size: 122, 201
+  orig: 122, 201
+  offset: 0, 0
+  index: -1

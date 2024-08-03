@@ -1,0 +1,125 @@
+
+box_open_ gold.png
+size: 352,1031
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spray gold/spray gold_00386
+  rotate: true
+  xy: 145, 10
+  size: 125, 16
+  orig: 300, 300
+  offset: 87, 108
+  index: -1
+spray gold/spray gold_00387
+  rotate: false
+  xy: 2, 2
+  size: 141, 133
+  orig: 300, 300
+  offset: 79, 73
+  index: -1
+spray gold/spray gold_00388
+  rotate: false
+  xy: 194, 329
+  size: 156, 182
+  orig: 300, 300
+  offset: 72, 38
+  index: -1
+spray gold/spray gold_00389
+  rotate: true
+  xy: 2, 137
+  size: 134, 180
+  orig: 300, 300
+  offset: 83, 51
+  index: -1
+spray gold/spray gold_00390
+  rotate: false
+  xy: 201, 692
+  size: 145, 172
+  orig: 300, 300
+  offset: 81, 66
+  index: -1
+spray gold/spray gold_00391
+  rotate: false
+  xy: 191, 208
+  size: 154, 119
+  orig: 300, 300
+  offset: 78, 124
+  index: -1
+spray gold/spray gold_00392
+  rotate: true
+  xy: 224, 866
+  size: 163, 126
+  orig: 300, 300
+  offset: 70, 113
+  index: -1
+spray gold/spray gold_00393
+  rotate: true
+  xy: 199, 513
+  size: 177, 143
+  orig: 300, 300
+  offset: 63, 103
+  index: -1
+spray gold/spray gold_00394
+  rotate: false
+  xy: 2, 273
+  size: 187, 138
+  orig: 300, 300
+  offset: 57, 105
+  index: -1
+spray gold/spray gold_00395
+  rotate: false
+  xy: 2, 741
+  size: 197, 149
+  orig: 300, 300
+  offset: 52, 83
+  index: -1
+spray gold/spray gold_00396
+  rotate: false
+  xy: 2, 413
+  size: 190, 169
+  orig: 300, 300
+  offset: 45, 58
+  index: -1
+spray gold/spray gold_00397
+  rotate: true
+  xy: 2, 584
+  size: 155, 195
+  orig: 300, 300
+  offset: 75, 24
+  index: -1
+spray gold/spray gold_00398
+  rotate: true
+  xy: 2, 892
+  size: 137, 220
+  orig: 300, 300
+  offset: 96, 0
+  index: -1
+spray gold/spray gold_00399
+  rotate: true
+  xy: 163, 13
+  size: 122, 89
+  orig: 300, 300
+  offset: 98, 130
+  index: -1
+spray gold/spray gold_00400
+  rotate: true
+  xy: 266, 119
+  size: 87, 77
+  orig: 300, 300
+  offset: 133, 138
+  index: -1
+spray gold/spray gold_00401
+  rotate: false
+  xy: 184, 137
+  size: 80, 69
+  orig: 300, 300
+  offset: 135, 136
+  index: -1
+spray gold/spray gold_00402
+  rotate: false
+  xy: 254, 51
+  size: 77, 66
+  orig: 300, 300
+  offset: 137, 135
+  index: -1

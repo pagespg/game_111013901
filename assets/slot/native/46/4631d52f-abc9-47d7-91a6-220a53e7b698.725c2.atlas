@@ -1,0 +1,13 @@
+
+barLight.jpg
+size: 761,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barLight
+  rotate: false
+  xy: 2, 2
+  size: 757, 218
+  orig: 762, 223
+  offset: 3, 3
+  index: -1

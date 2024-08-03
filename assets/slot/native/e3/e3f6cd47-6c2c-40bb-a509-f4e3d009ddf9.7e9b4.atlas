@@ -1,0 +1,13 @@
+
+winLight.jpg
+size: 203,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+winLight
+  rotate: false
+  xy: 2, 2
+  size: 199, 300
+  orig: 201, 305
+  offset: 1, 3
+  index: -1

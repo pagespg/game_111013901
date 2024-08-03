@@ -1,0 +1,13 @@
+
+littleGame_cube.png
+size: 111,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+item_cube
+  rotate: false
+  xy: 2, 2
+  size: 107, 111
+  orig: 107, 111
+  offset: 0, 0
+  index: -1
